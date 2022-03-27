@@ -1,0 +1,21 @@
+.toy-header {
+    text-align: center;
+    margin: 10px 0;
+}
+
+.toy-header h1 {
+
+    margin: 0;
+    padding: 0;
+    font-size: 50px;
+    color: blueviolet;
+}
+
+
+.toy-header p {
+    word-spacing: 10px;
+    margin: 0;
+    padding: 0;
+    font-size: 30px;
+    color: blue;
+}

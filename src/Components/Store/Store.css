@@ -1,0 +1,31 @@
+.toy-body {
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    margin-top: 40px;
+    padding: 20px;
+}
+
+.toy-product {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 30px;
+
+}
+
+
+@media screen and (max-width: 768px) {
+    .toy-product {
+
+        grid-template-columns: 1fr;
+
+
+    }
+
+    .toy-body {
+
+        grid-template-columns: 1fr;
+
+    }
+
+
+}

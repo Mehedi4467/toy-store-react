@@ -1,0 +1,11 @@
+.question-area h1 {
+    text-align: center;
+
+}
+
+.question-area {
+
+    width: 80%;
+    margin: 0 auto;
+    padding-bottom: 20px;
+}
